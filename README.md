@@ -1,8 +1,8 @@
-## 🐶 Pet Shop Landing Page
+## 🐶 We Care
 
 Uma landing page moderna e responsiva desenvolvida durante a comunidade <a href="https://www.devclub.com.br/">DevClub</a>, com foco em prática de HTML e CSS na construção de interfaces profissionais.
 
-📷 Preview do Projeto
+📷 Prévia do Projeto
 
 
 ![Preview do Projeto](./img/Site.png)
@@ -56,7 +56,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ✔ Construção de uma landing page profissional
 
-## 🔥 Próximas Melhorias
+## 🔥 Próximos Passos
 
  → Adicionar responsividade mobile mais avançada
 
@@ -65,3 +65,8 @@ Durante o desenvolvimento deste projeto, pratiquei:
  → Criar página de Login funcional
 
  → Adicionar animações
+
+ ## 👨‍💻 Autor
+
+> Desenvolvido por Ismael Quirino <br/>
+> Front-End Developer em formação 🚀
